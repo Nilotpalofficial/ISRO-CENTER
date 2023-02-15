@@ -1,2 +1,1 @@
-# ISRO-CENTER
-Isro Center Clone
+# html-css-js-project-boilerplate
